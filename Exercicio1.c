@@ -1,10 +1,7 @@
 
-*******************************************************************************/
-//Carla Heloisa e Carolina Fonseca (11/05) 
+//Carla Heloisa e Carolina Fonseca (11/05)
 //LPI exercício  1
 #include <stdio.h>
-
-
 
 int main()
 {
@@ -19,11 +16,6 @@ int main()
     
     printf("Endereço do ponteiro 1: %p \n", &pt_var1 );
     printf("Endereço do ponteiro 2: %p \n", &pt_var2 );
-    
-    
-    
-    
-    
 
     return 0;
 }
