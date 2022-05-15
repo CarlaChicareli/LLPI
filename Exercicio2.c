@@ -1,17 +1,8 @@
-/******************************************************************************
 
-                            Online C Compiler.
-                Code, Compile, Run and Debug C program online.
-Write your code in this editor and press "Run" button to compile and execute it.
-
-*******************************************************************************/
-
-//Carla Heloisa e Carolina Fonseca (11/05) 
+//Carla Heloisa e Carolina Fonseca (11/05)
 //LPI exercício 2
 
 #include <stdio.h>
-
-
 
 int main()
 {
@@ -25,10 +16,5 @@ int main()
 
     printf("Conteudo do ponteiro: %d \n", *pt_var );
     
-    
-    
-    
-    
-
     return 0;
 }
