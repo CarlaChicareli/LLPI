@@ -13,13 +13,13 @@ int main()
 	printf("Digite uma frase: ");
   	gets(pt_vet);
   	
-  	//Estrutura de repetição par fazer a contagem dos espaços
+  	//Estrutura de repetiÃ§Ã£o par fazer a contagem dos espaÃ§os
   	
     while(pt_vet[i] != '\n' && pt_vet[i] != '\0'){  // Enquanto o ponteiro i diferente de /n e /0 ele ira repetir
     
-		while(pt_vet[i] == ' '){ // Enquanto tiver um espaço ira contar os espaços
+		while(pt_vet[i] == ' '){ // Enquanto tiver um espaÃ§o ira contar os espaÃ§os
 		
-			// Variavel contadora espaços
+			// Variavel contadora espaÃ§os
     		i++;
     	}
     	if(pt_vet[i]!='\n' && pt_vet[i]!='\0'){ // Se ponteiro i for /n e /0 ira contar a palavra 
