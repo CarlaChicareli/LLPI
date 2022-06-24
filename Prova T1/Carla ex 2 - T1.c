@@ -12,7 +12,7 @@ void main (void) {
 	
 	Troca (&a, &b);
 	
-	printf ("\n\nAgora A = %d e B = %d\n",a,b); //A vari·vel a e b foi modificada na funÁ„o Troca
+	printf ("\n\nAgora A = %d e B = %d\n",a,b); //A vari√°vel a e b foi modificada na fun√ß√£o Troca
 }
 
 void Troca (int *a, int *b) {
