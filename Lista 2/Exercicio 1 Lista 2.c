@@ -25,7 +25,7 @@ int main()
     pt_vet = &vet[0];
     
     for(i = 0; i < 6; i++){
-        printf("\nEndereço: %p | Conteudo %d: %d", &vet[i], i, *pt_vet);
+        printf("\nEndereÃ§o: %p | Conteudo %d: %d", &vet[i], i, *pt_vet);
         pt_vet++;
     }
 
